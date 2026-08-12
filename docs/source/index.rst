@@ -10,5 +10,9 @@ ablrfd-user-manual documentation
    :maxdepth: 2
    :caption: Contents:
 
-   1.1-program-identification
-   1.2-abbreviation
+   navigation/table-of-contents
+   navigation/list-of-figures
+   navigation/list-of-tables
+
+   chapter-01/1.1-program-identification
+   chapter-01/1.2-abbreviation
