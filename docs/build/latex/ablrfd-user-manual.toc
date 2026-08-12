@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Contents}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Usage}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Installation}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Creating recipes}{3}{subsection.1.1.2}%
+\contentsline {chapter}{Index}{5}{section*.4}%
