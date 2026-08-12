@@ -1,14 +1,9 @@
-.. ablrfd-user-manual documentation master file, created by
-   sphinx-quickstart on Wed Aug 12 10:32:58 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-ablrfd-user-manual documentation
+ABLRFD User Manual
 ================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Navigation:
 
    navigation/table-of-contents
    navigation/list-of-figures
@@ -16,3 +11,10 @@ ablrfd-user-manual documentation
 
    chapter-01/1.1-program-identification
    chapter-01/1.2-abbreviation
+
+   chapter-02/2.1-general
+   chapter-02/2.2-substructure-types
+   chapter-02/2.3-footing-types
+   chapter-02/2.4-program-functions
+   chapter-02/2.5-loadings
+   chapter-02/2.6-assumptions-and-limitations

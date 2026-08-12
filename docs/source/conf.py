@@ -6,10 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ablrfd-user-manual'
+project = 'ABRLFD User Manual'
 copyright = '2026, Michael Baker International'
 author = 'Michael Baker International'
-release = 'v1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -26,6 +25,15 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_css_files = ['custom.css']
+html_show_sphinx = False  
+
+
+html_theme_options = {
+    "footer_icons": [],  # Removes footer icons
+    "footer_start": [],
+    "footer_end": [],
+}
 
 source_suffix = {
     '.rst': 'restructuredtext',
@@ -51,6 +59,9 @@ latex_elements = {
     'preamble': r'''
 \usepackage{charter}
 \usepackage[T1]{fontenc}
+\DeclareUnicodeCharacter{2003}{\quad}
+\DeclareUnicodeCharacter{03B1}{\ensuremath{\alpha}}
+\DeclareUnicodeCharacter{03C6}{\ensuremath{\varphi}}
 ''',
     'figure_align': 'H',
 }

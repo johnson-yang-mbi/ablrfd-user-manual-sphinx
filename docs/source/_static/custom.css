@@ -1,0 +1,16 @@
+/* Adjust page and sidebar widths */
+:root {
+    --sidebar-width: 280px;  /* Default is 15rem (~240px), adjust as needed */
+    --content-width: 60rem;  /* Default is 46rem, adjust for wider content */
+}
+
+/* Hide the "Made with Sphinx..." footer */
+.footer p {
+    display: none;
+}
+
+/* Optional: Add custom footer text if desired */
+/* .footer::after {
+    content: "Your custom footer text here";
+    display: block;
+} */
