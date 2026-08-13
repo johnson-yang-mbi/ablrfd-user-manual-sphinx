@@ -1,10 +1,10 @@
 # List of Figures
 
-## Chapter 1 &emsp; General Description
+**Chapter 1 &emsp; General Description**
 
 *(No figures)*
 
-## Chapter 2 &emsp; Program Description
+**Chapter 2 &emsp; Program Description**
 
 - [Figure 2.1-1 &emsp; Directions](../chapter-02/2.1-general.md#figure-2-1-1)
 - [Figure 2.2-1 &emsp; Abutment Type I](../chapter-02/2.2-substructure-types.md#figure-2-2-1)
@@ -12,16 +12,16 @@
 - [Figure 2.2-3 &emsp; Abutment without Backwall](../chapter-02/2.2-substructure-types.md#figure-2-2-3)
 - [Figure 2.2-4 &emsp; Retaining Wall](../chapter-02/2.2-substructure-types.md#figure-2-2-4)
 
-## Chapter 3 &emsp; Method of Solution
+**Chapter 3 &emsp; Method of Solution**
 
-### 3.2 &emsp; Geometry
+**3.2 &emsp; Geometry**
 
 - [Figure 3.2.1-1 &emsp; Incremental Positions of the Footing Geometry](../chapter-03/3.2-geometry.md#figure-3-2-1-1)
 - [Figure 3.2.1-2 &emsp; Design Algorithm for Footing Iteration Scheme](../chapter-03/3.2-geometry.md#_Toc498224297)
 - [Figure 3.2.1-3 &emsp; Typical Attempted Footing Design Dimensions](../chapter-03/3.2-geometry.md#figure-3-2-1-3)
 - [Figure 3.2.1-4 &emsp; Design Status of Footing Iteration Scheme Displayed on Monitor](../chapter-03/3.2-geometry.md#_Toc498224298)
 
-### 3.3 &emsp; Applied Load Effects
+**3.3 &emsp; Applied Load Effects**
 
 - [Figure 3.3.1-1 &emsp; Construction Stages](../chapter-03/3.3-applied-load-effects.md#figure-3-3-1-1a)
 - [Figure 3.3.1-1b &emsp; Construction Stages (Cont.)](../chapter-03/3.3-applied-load-effects.md#figure-3-3-1-1b)
@@ -40,7 +40,7 @@
 - [Figure 3.3.2-14 &emsp; Illustration of WA Load](../chapter-03/3.3-applied-load-effects.md#figure-3-3-2-14)
 - [Figure 3.3.2-15 &emsp; Application of Wind at Stem Locations](../chapter-03/3.3-applied-load-effects.md#figure-3-3-2-15)
 
-### 3.4 &emsp; Stability
+**3.4 &emsp; Stability**
 
 - [Figure 3.4.1-1 &emsp; Stability Check for Spread Footing](../chapter-03/3.4-stability.md#figure-3-4-1-1)
 - [Figure 3.4.1-2 &emsp; Illustration of Pressure Distribution Under Spread Footing](../chapter-03/3.4-stability.md#figure-3-4-1-2)
@@ -54,7 +54,7 @@
 - [Figure 3.4.2-2 &emsp; Pedestal Weight (pw) and Moment (pm)](../chapter-03/3.4-stability.md#figure-3-4-2-2)
 - [Figure 3.4.3-1 &emsp; Force Relationships for Vertical & Battered Piles](../chapter-03/3.4-stability.md#figure-3-4-3-1)
 
-### 3.5 &emsp; Footing
+**3.5 &emsp; Footing**
 
 - [Figure 3.5.1-1 &emsp; Critical Location for Footing Analysis](../chapter-03/3.5-footing.md#figure-3-5-1-1)
 - [Figure 3.5.1-2 &emsp; Heel Shear Analysis Points Locations](../chapter-03/3.5-footing.md#figure-3-5-1-2)
@@ -69,7 +69,7 @@
 - [Figure 3.5.2-3 &emsp; Temperature and Shrinkage Dimension Locations AT1, AT2](../chapter-03/3.5-footing.md#_Toc376871679)
 - [Figure 3.5.2-4 &emsp; Punching Shear Perimeter Around Drain Trough Pedestal](../chapter-03/3.5-footing.md#_Toc179015873)
 
-### 3.6 &emsp; Backwall and Stem
+**3.6 &emsp; Backwall and Stem**
 
 - [Figure 3.6-1 &emsp; Type II Abutment Section Height at Stem Points of Analysis Above Stem Notch](../chapter-03/3.6-backwall-and-stem.md#figure-3-6-1)
 - [Figure 3.6.1-1 &emsp; Lateral Forces of Cross Section](../chapter-03/3.6-backwall-and-stem.md#figure-3-6-1-1)
@@ -80,7 +80,7 @@
 - [Figure 3.6.3-2 &emsp; Cutoff Considerations for Abutment Types I and II](../chapter-03/3.6-backwall-and-stem.md#figure-3-6-3-2)
 - [Figure 3.6.4-1 &emsp; Backwall Height for Splice Check](../chapter-03/3.6-backwall-and-stem.md#figure-3-6-4-1)
 
-### 3.7 &emsp; Design Considerations
+**3.7 &emsp; Design Considerations**
 
 - [Figure 3.7.1-1 &emsp; Cut Area For Structures Situated In a Cut](../chapter-03/3.7-design-considerations.md#figure-3-7-1-1)
 - [Figure 3.7.1-2 &emsp; Examples of Backfill Area for Structures Situated in a Fill](../chapter-03/3.7-design-considerations.md#figure-3-7-1-2)
@@ -91,7 +91,7 @@
 - [Figure 3.7.3-1 &emsp; Schematics of Sample Pile Patterns](../chapter-03/3.7-design-considerations.md#figure-3-7-3-1)
 - [Figure 3.7.3-2 &emsp; Pile Spacings - Center to Center](../chapter-03/3.7-design-considerations.md#figure-3-7-3-2)
 
-### 3.9 &emsp; No Solution Found
+**3.9 &emsp; No Solution Found**
 
 - [Figure 3.9.1-1 &emsp; No-Solution-Found Message For Spread Footing](../chapter-03/3.9-no-solution-found.md#_Toc498224324)
 - [Figure 3.9.2-1 &emsp; No-Solution-Found Message For Pile Footings](../chapter-03/3.9-no-solution-found.md#_Toc498224325)

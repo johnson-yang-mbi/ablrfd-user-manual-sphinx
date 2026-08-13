@@ -1,11 +1,11 @@
 # Table of Contents
 
-## Chapter 1 &emsp; General Description
+**Chapter 1 &emsp; General Description**
 
 - [1.1 &emsp; Program Identification](../chapter-01/1.1-program-identification.md)
 - [1.2 &emsp; Abbreviation](../chapter-01/1.2-abbreviation.md)
 
-## Chapter 2 &emsp; Program Description
+**Chapter 2 &emsp; Program Description**
 
 - [2.1 &emsp; General](../chapter-02/2.1-general.md)
 - [2.2 &emsp; Substructure Types](../chapter-02/2.2-substructure-types.md)
@@ -14,7 +14,7 @@
 - [2.5 &emsp; Loadings](../chapter-02/2.5-loadings.md)
 - [2.6 &emsp; Assumptions and Limitations](../chapter-02/2.6-assumptions-and-limitations.md)
 
-## Chapter 3 &emsp; Method of Solution
+**Chapter 3 &emsp; Method of Solution**
 
 - [3.1 &emsp; Notation](../chapter-03/3.1-notation.md)
 - [3.2 &emsp; Geometry](../chapter-03/3.2-geometry.md)
