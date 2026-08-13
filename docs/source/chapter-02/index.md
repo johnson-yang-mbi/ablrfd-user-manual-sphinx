@@ -1,3 +1,7 @@
+```{raw} latex
+\clearpage
+```
+
 # Chapter 2 — Program Description
 
 ```{toctree}

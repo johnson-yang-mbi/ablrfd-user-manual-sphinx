@@ -1,3 +1,7 @@
+```{raw} latex
+\clearpage
+```
+
 # Chapter 1 — General Description
 
 ```{toctree}
