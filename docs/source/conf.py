@@ -60,6 +60,7 @@ latex_elements = {
 \DeclareUnicodeCharacter{2003}{\quad}
 \DeclareUnicodeCharacter{03B1}{\ensuremath{\alpha}}
 \DeclareUnicodeCharacter{03C6}{\ensuremath{\varphi}}
+\setcounter{secnumdepth}{-1}
 ''',
     'figure_align': 'H',
 }
