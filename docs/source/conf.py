@@ -15,7 +15,10 @@ author = 'Michael Baker International'
 
 extensions = [
     'myst_parser',
+    'sphinx.ext.mathjax',
 ]
+
+myst_enable_extensions = ["dollarmath"]
 
 templates_path = ['_templates']
 exclude_patterns = []
