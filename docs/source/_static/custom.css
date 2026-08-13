@@ -4,18 +4,14 @@
     --content-width: 60rem;  /* Default is 46rem, adjust for wider content */
 }
 
-
-
 /* Replace sidebar brand text with "Home" */
 .sidebar-brand-text {
     font-size: 0;
 }
-.sidebar-brand-text::before {
-    content: "Home";
-    font-size: 1rem;
-}
 
-/* Hide only the "Made with Furo" section; keep copyright */
-.bottom-of-page .right-details {
-    display: none;
+.sidebar-brand-text::before {
+    content: "Home - ABLRFD";
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: right;
 }
