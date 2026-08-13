@@ -61,6 +61,18 @@ latex_elements = {
 \DeclareUnicodeCharacter{03B1}{\ensuremath{\alpha}}
 \DeclareUnicodeCharacter{03C6}{\ensuremath{\varphi}}
 \setcounter{secnumdepth}{-1}
+\usepackage{bookmark}
+\bookmarksetup{
+    numbered,
+    open,
+}
 ''',
     'figure_align': 'H',
 }
+
+# Control PDF bookmark depth
+latex_toplevel_sectioning = 'chapter'
+
+# Ensure bookmarks show only top-level headings for navigation sections
+latex_show_pagerefs = False
+latex_show_urls = 'footnote'

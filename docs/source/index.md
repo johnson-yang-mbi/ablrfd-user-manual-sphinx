@@ -2,16 +2,12 @@
 
 ## LRFD Abutment and Retaining Wall Analysis and Design
 
-```{only} html
 ```{toctree}
-:maxdepth: 2
-:caption: Navigation
-:hidden:
+:maxdepth: 1
 
 navigation/table-of-contents
 navigation/list-of-figures
 navigation/list-of-tables
-```
 ```
 
 ```{toctree}
