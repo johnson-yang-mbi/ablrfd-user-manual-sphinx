@@ -30,9 +30,7 @@ html_show_sphinx = False
 
 
 html_theme_options = {
-    "footer_icons": [],  # Removes footer icons
-    "footer_start": [],
-    "footer_end": [],
+    "footer_icons": [],
 }
 
 source_suffix = {

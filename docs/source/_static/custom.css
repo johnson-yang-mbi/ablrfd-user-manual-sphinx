@@ -4,13 +4,18 @@
     --content-width: 60rem;  /* Default is 46rem, adjust for wider content */
 }
 
-/* Hide the "Made with Sphinx..." footer */
-.footer p {
-    display: none;
+
+
+/* Replace sidebar brand text with "Home" */
+.sidebar-brand-text {
+    font-size: 0;
+}
+.sidebar-brand-text::before {
+    content: "Home";
+    font-size: 1rem;
 }
 
-/* Optional: Add custom footer text if desired */
-/* .footer::after {
-    content: "Your custom footer text here";
-    display: block;
-} */
+/* Hide only the "Made with Furo" section; keep copyright */
+.bottom-of-page .right-details {
+    display: none;
+}
