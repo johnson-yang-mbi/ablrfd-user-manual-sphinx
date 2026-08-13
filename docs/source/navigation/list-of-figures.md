@@ -1,3 +1,7 @@
+```{raw} latex
+\clearpage
+```
+
 # List of Figures
 
 **Chapter 1 &emsp; General Description**

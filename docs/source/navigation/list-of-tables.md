@@ -1,3 +1,7 @@
+```{raw} latex
+\clearpage
+```
+
 # List of Tables
 
 **Chapter 1 &emsp; General Description**

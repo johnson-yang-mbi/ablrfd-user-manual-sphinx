@@ -12,7 +12,6 @@ navigation/list-of-tables
 
 ```{toctree}
 :maxdepth: 2
-:numbered:
 
 chapter-01/index
 chapter-02/index

@@ -1,3 +1,7 @@
+```{raw} latex
+\clearpage
+```
+
 # Table of Contents
 
 **Chapter 1 &emsp; General Description**
