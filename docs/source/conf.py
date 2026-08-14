@@ -78,6 +78,8 @@ latex_elements = {
 \DeclareUnicodeCharacter{03C5}{\ensuremath{\upsilon}}
 \DeclareUnicodeCharacter{03C6}{\ensuremath{\varphi}}
 \DeclareUnicodeCharacter{0394}{\ensuremath{\Delta}}
+\DeclareUnicodeCharacter{02DA}{\ensuremath{^\circ}}
+\DeclareUnicodeCharacter{03BF}{o}
 \setcounter{secnumdepth}{-1}
 \usepackage{bookmark}
 \bookmarksetup{
