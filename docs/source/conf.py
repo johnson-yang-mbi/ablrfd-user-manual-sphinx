@@ -18,7 +18,7 @@ extensions = [
     'sphinx.ext.mathjax',
 ]
 
-myst_enable_extensions = ["dollarmath", "sub", "sup"]
+myst_enable_extensions = ["dollarmath"]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -80,6 +80,8 @@ latex_elements = {
 \DeclareUnicodeCharacter{0394}{\ensuremath{\Delta}}
 \DeclareUnicodeCharacter{02DA}{\ensuremath{^\circ}}
 \DeclareUnicodeCharacter{03BF}{o}
+\DeclareUnicodeCharacter{2264}{\ensuremath{\leq}}
+\DeclareUnicodeCharacter{2265}{\ensuremath{\geq}}
 \setcounter{secnumdepth}{-1}
 \usepackage{bookmark}
 \bookmarksetup{
