@@ -38,3 +38,32 @@
 **3.7 &emsp; Design Considerations**
 
 - [Table 3.7.3-1 &emsp; Pile Patterns used in the Program](../chapter-03/3.7-design-considerations.md#_Toc498244230)
+
+**Chapter 4 &emsp; Getting Started**
+
+*(No tables)*
+
+**Chapter 5 &emsp; Input Description**
+
+*(No tables)*
+
+**Chapter 6 &emsp; Detailed Input Description**
+
+*(No tables)*
+
+**Chapter 7 &emsp; Output Description**
+
+**7.1 &emsp; General Output Information**
+
+- [Table 7.1-1 &emsp; Typical Units](../chapter-07/7.1-general-output-information.md)
+- [Table 7.1-2 &emsp; Sign Conventions](../chapter-07/7.1-general-output-information.md)
+
+**Chapter 8 &emsp; Example Problems**
+
+**8.1 &emsp; Example Problems**
+
+- [Table 8.1-1 &emsp; Example Problem Matrix](../chapter-08/8.1-example-problems.md)
+
+**Chapter 9 &emsp; Technical Questions and Revision Requests**
+
+*(No tables)*

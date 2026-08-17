@@ -100,3 +100,112 @@
 - [Figure 3.9.1-1 &emsp; No-Solution-Found Message For Spread Footing](../chapter-03/3.9-no-solution-found.md#_Toc498224324)
 - [Figure 3.9.2-1 &emsp; No-Solution-Found Message For Pile Footings](../chapter-03/3.9-no-solution-found.md#_Toc498224325)
 - [Figure 3.9.3-1 &emsp; No-Solution-Found Message For Pedestal Footings](../chapter-03/3.9-no-solution-found.md#_Toc498224326)
+
+**Chapter 4 &emsp; Getting Started**
+
+*(No figures)*
+
+**Chapter 5 &emsp; Input Description**
+
+*(No figures)*
+
+**Chapter 6 &emsp; Detailed Input Description**
+
+*(No figures)*
+
+**Chapter 7 &emsp; Output Description**
+
+**7.1 &emsp; General Output Information**
+
+- [Figure 7.1.4-1 &emsp; Page Header](../chapter-07/7.1-general-output-information.md)
+
+**7.3 &emsp; Input Data**
+
+- [Figure 7.3.1-1 &emsp; Cover Page](../chapter-07/7.3-input-data.md)
+- [Figure 7.3.3-1 &emsp; Sample Input Command Report - illustrating the MRD, DLL and EQL commands](../chapter-07/7.3-input-data.md)
+
+**7.4 &emsp; Results**
+
+- [Figure 7.4.1-1 &emsp; Sample Summary Input Command Description of the AT1 and FTG command](../chapter-07/7.4-results.md)
+- [Figure 7.4.1-2 &emsp; Footing and Pedestal Geometry](../chapter-07/7.4-results.md)
+- [Figure 7.4.2-1 &emsp; Pile Pattern Component of the Stability Report](../chapter-07/7.4-results.md)
+- [Figure 7.4.4-1 &emsp; Output Legend](../chapter-07/7.4-results.md)
+- [Figure 7.4.4-2 &emsp; Factored Forces at the Foundation](../chapter-07/7.4-results.md)
+- [Figure 7.4.4-3 &emsp; Factored Forces at the Pedestal Base](../chapter-07/7.4-results.md)
+- [Figure 7.4.4-4 &emsp; Factored Loads in the Stem](../chapter-07/7.4-results.md)
+- [Figure 7.4.4-5 &emsp; Factored Forces in the Footing](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-1 &emsp; Pile Axial Loads and Resistance in Footing Stability Report](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-2 &emsp; Pile Lateral Resistance in Footing Stability Report](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-3 &emsp; Unit Length Diagram](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-4 &emsp; Bearing Capacity Report for Footing Stability](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-5 &emsp; Sliding Resistance](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-6 &emsp; Settlement - Spread Footing Stability Report](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-7 &emsp; Overturning and Bearing - Pedestal on Foundation](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-8 &emsp; Overturning and Bearing - Pedestal on Footing](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-9 &emsp; Pedestal Sliding (Footing Stability)](../chapter-07/7.4-results.md)
+- [Figure 7.4.5-10 &emsp; Pedestal Settlement](../chapter-07/7.4-results.md)
+- [Figure 7.4.6-1 &emsp; Controlling Forces](../chapter-07/7.4-results.md)
+- [Figure 7.4.7-1 &emsp; Flexural Strength Report for a Pile Footing Analysis](../chapter-07/7.4-results.md)
+- [Figure 7.4.7-2 &emsp; Flexural Strength Report for a Pile Footing Design](../chapter-07/7.4-results.md)
+- [Figure 7.4.8-1 &emsp; Crack Control in Backwall and Stem (Analysis Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.8-2 &emsp; Footing Crack Control Report (Analysis Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.8-3 &emsp; Crack Control in Backwall and Stem (Design Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.8-4 &emsp; Footing Crack Control Report (Design Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.8-5 &emsp; Gravity Wall - Tension Check](../chapter-07/7.4-results.md)
+- [Figure 7.4.9-1 &emsp; Summary of Reinforcement Perpendicular Footing Bar Development (Analysis Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.9-2 &emsp; Summary of Reinforcement in the Stem & Backwall (Analysis Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.9-3 &emsp; Summary of Reinforcement in the Stem and Backwall (Design Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.9-4 &emsp; Summary of Reinforcement in the Pile Footing (Analysis Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.9-5 &emsp; Summary of Reinforcement in the Pile Footing (Design Run)](../chapter-07/7.4-results.md)
+- [Figure 7.4.10-1 &emsp; Shear Results in the Backwall and Stem](../chapter-07/7.4-results.md)
+- [Figure 7.4.10-2 &emsp; Shear Results at cutoff locations](../chapter-07/7.4-results.md)
+- [Figure 7.4.10-3 &emsp; Shear Results in the Footing (Pile Footing Variation)](../chapter-07/7.4-results.md)
+- [Figure 7.4.11-1 &emsp; Design Details for Abutment Backwall](../chapter-07/7.4-results.md)
+- [Figure 7.4.11-2 &emsp; Design Details for a Footing (Perpendicular Direction)](../chapter-07/7.4-results.md)
+- [Figure 7.4.11-3 &emsp; Design Details for Stem Location](../chapter-07/7.4-results.md)
+- [Figure 7.4.12-1 &emsp; Optimal Design Results (Backwall)](../chapter-07/7.4-results.md)
+- [Figure 7.4.12-2 &emsp; Optimal Design Results (Footing and Stem)](../chapter-07/7.4-results.md)
+
+**7.5 &emsp; Intermediate Results**
+
+- [Figure 7.5.1-1 &emsp; Sample Unfactored Loads Report for Stem Location A](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.1-2 &emsp; Sample Unfactored Loads Report for the Backwall](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.1-3 &emsp; Sample Unfactored Loads Report for Stem Location A](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.1-4 &emsp; Sample Showing Unfactored Loads for Pedestal](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.2-1 &emsp; Load Factors Applied to the Backwall Loads](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.2-2 &emsp; Load Factors in the Footing](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.3-1 &emsp; Intermediate Bearing Resistance](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.4-1 &emsp; Moment Axial Interaction](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.5-1 &emsp; Heel Internal Moment](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.5-2 &emsp; Heel Shear from Internal Force Report](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.5-3 &emsp; Pile Loads from Internal Force Report](../chapter-07/7.5-intermediate-results.md)
+- [Figure 7.5.6-1 &emsp; Minimum Reinforcement Check Report](../chapter-07/7.5-intermediate-results.md)
+
+**7.7 &emsp; Specification Check Warnings**
+
+- [Figure 7.7-1 &emsp; Specification Check Warnings Page](../chapter-07/7.7-specification-check-warnings.md)
+
+**7.8 &emsp; Specification Check Failures**
+
+- [Figure 7.8-1 &emsp; Specification Check Failures Page](../chapter-07/7.8-specification-check-failures.md)
+
+**Chapter 8 &emsp; Example Problems**
+
+- [Figure 8.2-1 &emsp; Example 1 Abutment Geometry](../chapter-08/8.2-example-1-design.md)
+- [Figure 8.3-1 &emsp; Example 2 Abutment Geometry](../chapter-08/8.3-example-2-design.md)
+- [Figure 8.4-1 &emsp; Example 3 Wall Geometry](../chapter-08/8.4-example-3.md)
+- [Figure 8.5-1 &emsp; Example 4 Abutment and Pedestal Geometry](../chapter-08/8.5-example-4.md)
+- [Figure 8.6-1 &emsp; Example 5 Abutment Geometry](../chapter-08/8.6-example-5.md)
+- [Figure 8.7-1 &emsp; Example 6 Abutment Geometry](../chapter-08/8.7-example-6-design.md)
+- [Figure 8.8-1 &emsp; Example 7 Gravity Wall Geometry](../chapter-08/8.8-example-7.md)
+- [Figure 8.9-1 &emsp; Example 8 Abutment and Footing Geometry](../chapter-08/8.9-example-8.md)
+- [Figure 8.10-1 &emsp; Example 9 Retaining Wall and Pedestal Geometry](../chapter-08/8.10-example-9-design.md)
+- [Figure 8.11-1 &emsp; Example 10 Gravity Wall Geometry](../chapter-08/8.11-example-10.md)
+- [Figure 8.12-1 &emsp; Example 11 Abutment Geometry](../chapter-08/8.12-example-11.md)
+- [Figure 8.13-1 &emsp; Example 12 Abutment Geometry](../chapter-08/8.13-example-12-design.md)
+- [Figure 8.14-1 &emsp; Example 13 Retaining Wall Geometry](../chapter-08/8.14-example-13-design.md)
+- [Figure 8.15-1 &emsp; Example 14 Abutment Geometry](../chapter-08/8.15-example-14.md)
+
+**Chapter 9 &emsp; Technical Questions and Revision Requests**
+
+*(No figures)*
