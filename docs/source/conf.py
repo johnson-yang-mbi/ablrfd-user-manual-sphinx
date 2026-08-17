@@ -57,9 +57,16 @@ latex_documents = [
 latex_elements = {
     'papersize': 'letterpaper',
     'pointsize': '11pt',
+    'sphinxsetup': 'hmargin={0.85in,0.85in},vmargin={0.85in,0.85in}',
     'preamble': r'''
 \usepackage{charter}
 \usepackage[T1]{fontenc}
+\usepackage{etoolbox}
+\AtBeginEnvironment{tabulary}{\small}
+\AtBeginEnvironment{longtable}{\small}
+\AtBeginEnvironment{tabular}{\small}
+\setlength{\tabcolsep}{2pt}
+\setlength{\tymin}{55pt}
 \DeclareUnicodeCharacter{2003}{\quad}
 \DeclareUnicodeCharacter{2011}{-}
 \DeclareUnicodeCharacter{03B1}{\ensuremath{\alpha}}
