@@ -13,6 +13,7 @@ navigation/list-of-tables
 ```{toctree}
 :maxdepth: 2
 
+summary-of-revisions/index
 chapter-01/index
 chapter-02/index
 chapter-03/index
@@ -22,5 +23,5 @@ chapter-06/index
 chapter-07/index
 chapter-08/index
 chapter-09/index
-summary-of-revisions/index
+
 ```
